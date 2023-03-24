@@ -1,5 +1,7 @@
 # vim-racket
 
+This fork removes the <Plug>RacketDoc normal K mapping.
+
 Installation
 ------------
 
